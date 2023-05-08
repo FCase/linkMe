@@ -14,7 +14,7 @@ main {
 
 nav {
   position: sticky;
-  background-image: url(/assets/imagenes/fondos/fondoNavBarv2.png);
+  background-image: url(./assets/imagenes/fondos/fondoNavBarv2.png);
   background-size: cover;
 }
 nav .nav-link {
